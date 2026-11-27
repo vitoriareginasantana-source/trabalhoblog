@@ -30,7 +30,7 @@
       }
       .tema-escuro button{
         border:none;
-        backgrounb-color:var(--cor-botao);
+        background-color:var(--cor-botao);
         color: var (--cor-texto);
       }
       .tema-escuro h2 {
